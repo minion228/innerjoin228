@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerJoin228", "InnerJoin228\InnerJoin228.csproj", "{A03F3507-FBD2-4359-9C73-361D4775BBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03F3507-FBD2-4359-9C73-361D4775BBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03F3507-FBD2-4359-9C73-361D4775BBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03F3507-FBD2-4359-9C73-361D4775BBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03F3507-FBD2-4359-9C73-361D4775BBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2CD6157-CAB0-4971-BA60-5EAD5D050DC2}
+	EndGlobalSection
+EndGlobal
