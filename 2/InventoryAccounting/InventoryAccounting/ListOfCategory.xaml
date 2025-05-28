@@ -1,0 +1,17 @@
+﻿<Window x:Class="InventoryAccounting.ListOfCategory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InventoryAccounting"
+        mc:Ignorable="d"
+        Title="ListOfCategory" Height="400" Width="400">
+    <Grid>
+        <DataGrid FontSize="20" BorderThickness="1,0,1,1" x:Name="dg" SelectedItem="{Binding Categories}" IsReadOnly="True" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="id" Binding="{Binding CategoryID}"></DataGridTextColumn>
+                <DataGridTextColumn Header="name" Binding="{Binding CategoryName}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

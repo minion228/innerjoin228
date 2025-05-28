@@ -1,0 +1,43 @@
+﻿<Window x:Class="InnerJoin228.Profile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InnerJoin228"
+        mc:Ignorable="d"
+        Title="Profile" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="637*"></ColumnDefinition>
+            <ColumnDefinition Width="163*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="309*"></RowDefinition>
+            <RowDefinition Height="125*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Button Content="Добавить" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" FontSize="20" Click="Button_Click"/>
+            <Button Content="Обновить" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" FontSize="20" Click="Button_Click_1"/>
+            <Button Content="Удалить" HorizontalAlignment="Center" Grid.Row="3" VerticalAlignment="Center" FontSize="20" Width="92" Click="Button_Click_2"/>
+            <Button Content="Экспорт" HorizontalAlignment="Center" Grid.Row="4" VerticalAlignment="Center" FontSize="20" Width="92" Click="Button_Click_3"/>
+        </Grid>
+        <DataGrid FontSize="25" x:Name="dgUsers" AutoGenerateColumns="False" IsReadOnly="true" SelectedItem="{Binding Users}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="id" Binding="{Binding UserID}"></DataGridTextColumn>
+                <DataGridTextColumn Header="login" Binding="{Binding UserLogin}"></DataGridTextColumn>
+                <DataGridTextColumn Header="password" Binding="{Binding UserPassword}"></DataGridTextColumn>
+                <DataGridTextColumn Header="role" Binding="{Binding Roles.RoleName}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="search" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="207" FontSize="20" TextChanged="search_TextChanged" />
+        <Button Grid.Column="1" Content="назад" HorizontalAlignment="Left" Margin="81,85,0,0" Grid.Row="1" VerticalAlignment="Top" FontSize="20" Width="76" Click="Button_Click_4"/>
+        <Button Content="Список ролей" HorizontalAlignment="Center" Margin="0,17,0,0" VerticalAlignment="Top" Grid.Column="1" FontSize="20" Width="151" Click="Button_Click_5"/>
+    </Grid>
+</Window>

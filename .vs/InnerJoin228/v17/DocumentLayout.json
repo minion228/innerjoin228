@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|c:\\users\\yulia\\desktop\\\u0441#\\innerjoin228\\innerjoin228\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\listofroles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\listofroles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\listofroles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\listofroles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\addoredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\addoredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\addoredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\addoredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\logic\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\logic\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\modeldb\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\modeldb\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\innerjoin228\\classes\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A03F3507-FBD2-4359-9C73-361D4775BBDD}|InnerJoin228\\InnerJoin228.csproj|solutionrelative:innerjoin228\\classes\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListOfRoles.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\ListOfRoles.xaml.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\ListOfRoles.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\ListOfRoles.xaml.cs",
+              "RelativeToolTip": "InnerJoin228\\ListOfRoles.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:20:39.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListOfRoles.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\ListOfRoles.xaml",
+              "RelativeDocumentMoniker": "InnerJoin228\\ListOfRoles.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\ListOfRoles.xaml",
+              "RelativeToolTip": "InnerJoin228\\ListOfRoles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T15:17:16.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\AddOrEdit.xaml.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\AddOrEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\AddOrEdit.xaml.cs",
+              "RelativeToolTip": "InnerJoin228\\AddOrEdit.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:50:09.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Profile.xaml.cs",
+              "RelativeToolTip": "InnerJoin228\\Profile.xaml.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAUwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:27:40.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Profile.xaml",
+              "RelativeDocumentMoniker": "InnerJoin228\\Profile.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Profile.xaml",
+              "RelativeToolTip": "InnerJoin228\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T14:27:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Classes\\Role.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\Classes\\Role.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Classes\\Role.cs",
+              "RelativeToolTip": "InnerJoin228\\Classes\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:17:34.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Classes\\User.cs",
+              "RelativeToolTip": "InnerJoin228\\Classes\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:17:25.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\Interfaces\\IAuth.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Interfaces\\IAuth.cs",
+              "RelativeToolTip": "InnerJoin228\\Interfaces\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:17:16.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\ModelDB\\Model1.edmx",
+              "RelativeDocumentMoniker": "InnerJoin228\\ModelDB\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\ModelDB\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "InnerJoin228\\ModelDB\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-26T14:13:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Logic\\Auth.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\Logic\\Auth.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\Logic\\Auth.cs",
+              "RelativeToolTip": "InnerJoin228\\Logic\\Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:08:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOrEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\AddOrEdit.xaml",
+              "RelativeDocumentMoniker": "InnerJoin228\\AddOrEdit.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\AddOrEdit.xaml",
+              "RelativeToolTip": "InnerJoin228\\AddOrEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T14:00:47.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "InnerJoin228\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\MainWindow.xaml",
+              "RelativeToolTip": "InnerJoin228\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T13:59:14.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "InnerJoin228\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InnerJoin228\\InnerJoin228\\MainWindow.xaml.cs",
+              "RelativeToolTip": "InnerJoin228\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:59:13.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

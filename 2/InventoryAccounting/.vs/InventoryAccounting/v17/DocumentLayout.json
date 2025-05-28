@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|c:\\users\\yulia\\desktop\\\u0441#\\inventoryaccounting\\inventoryaccounting\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|solutionrelative:inventoryaccounting\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\inventoryaccounting\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|solutionrelative:inventoryaccounting\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\inventoryaccounting\\addoredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|solutionrelative:inventoryaccounting\\addoredit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\inventoryaccounting\\addoredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|solutionrelative:inventoryaccounting\\addoredit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\inventoryaccounting\\listofcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|solutionrelative:inventoryaccounting\\listofcategory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\inventoryaccounting\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B222BC8A-B28F-48E4-8EF6-13F3B83EBFFE}|InventoryAccounting\\InventoryAccounting.csproj|solutionrelative:inventoryaccounting\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrEdit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\AddOrEdit.xaml.cs",
+              "RelativeDocumentMoniker": "InventoryAccounting\\AddOrEdit.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\AddOrEdit.xaml.cs",
+              "RelativeToolTip": "InventoryAccounting\\AddOrEdit.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:28:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "InventoryAccounting\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\Profile.xaml.cs",
+              "RelativeToolTip": "InventoryAccounting\\Profile.xaml.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAiwGMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:43:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListOfCategory.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\ListOfCategory.xaml",
+              "RelativeDocumentMoniker": "InventoryAccounting\\ListOfCategory.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\ListOfCategory.xaml",
+              "RelativeToolTip": "InventoryAccounting\\ListOfCategory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T11:33:51.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrEdit.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\AddOrEdit.xaml",
+              "RelativeDocumentMoniker": "InventoryAccounting\\AddOrEdit.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\AddOrEdit.xaml",
+              "RelativeToolTip": "InventoryAccounting\\AddOrEdit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T11:33:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\Profile.xaml",
+              "RelativeDocumentMoniker": "InventoryAccounting\\Profile.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\Profile.xaml",
+              "RelativeToolTip": "InventoryAccounting\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T11:33:06.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\Login.xaml",
+              "RelativeDocumentMoniker": "InventoryAccounting\\Login.xaml",
+              "ToolTip": "C:\\Users\\Yulia\\Desktop\\\u0441#\\InventoryAccounting\\InventoryAccounting\\Login.xaml",
+              "RelativeToolTip": "InventoryAccounting\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T11:29:56.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
